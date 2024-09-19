@@ -1,5 +1,7 @@
 import math
 
+def hello():
+    print("Hello")
 def fun1(x):
     return x - x**2
 
